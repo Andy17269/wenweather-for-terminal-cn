@@ -1,3 +1,3 @@
-# WenWeather-For-Terminal-CN
-一个天气查询的命令行程序，使用Python制作。目前可在中国大陆地区使用。
+# WenWeather For Terminal
+一个天气查询的命令行Demo程序，使用Python制作。仅可在中国大陆使用。
 从发布页下载它。
